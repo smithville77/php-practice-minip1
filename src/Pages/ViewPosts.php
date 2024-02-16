@@ -7,7 +7,10 @@ $blogRepository = new BlogRepository();
 $blogPosts = $blogRepository->getAllPosts();
 
 ?>
-
+<?php
+// include the header file
+require_once __DIR__ . '/../SharedComponents/Header.php';
+?>
 <h1>Welcome to the blog about nothing!</h1>
 <div>
     <?php foreach ($blogPosts as $post) : ?>
