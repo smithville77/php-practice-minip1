@@ -30,4 +30,3 @@ require_once __DIR__ . '/../SharedComponents/Header.php';
 
     <?php endforeach ?>
 </div>
-
