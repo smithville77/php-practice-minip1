@@ -23,10 +23,10 @@ require_once __DIR__ . '/../SharedComponents/Header.php';
             <?php foreach ($blogPosts as $post) : ?>
                 <div class="border-top border-bottom border-secondary p-2 mb-3">
                     <h6><?php echo $post->title ?></h6>
-                <p><?php echo substr($post->blogContent, 0, 50) . "..." ?></p>
-                <button class="btn btn-primary">See more</button>
+                    <p><?php echo substr($post->blogContent, 0, 50) . "..." ?></p>
+                    <button class="btn btn-primary">See more</button>
                 </div>
-                
+
             <?php endforeach ?>
 
             <button class="btn btn-secondary "><a class="text-white text-decoration-none" href="/php-practice-minip1/src/Pages/ViewPosts.php">See all posts</a></button>

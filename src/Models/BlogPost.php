@@ -20,5 +20,4 @@ class BlogPost
         $this->blogContent = $blogContent;
         $this->tags = $tags;
     }
-
 }
