@@ -3,7 +3,10 @@
 require_once __DIR__ . '/../SharedComponents/Header.php';
 ?>
 
-<h1>Home page</h1>
+
+<container class="container">
+    <h1>Home page</h1>
+</container>
 
 <?php
 // include the header file
