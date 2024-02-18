@@ -11,7 +11,7 @@ require_once __DIR__ . '/../SharedComponents/Header.php';
 ?>
 
 
-<div class="container"  style="margin-top: 100px;">
+<div class="container" style="margin-top: 100px;">
     <h1 class="mb-4 mt-5">Welcome</h1>
     <container class="row">
         <div class="col-8">
@@ -29,7 +29,7 @@ require_once __DIR__ . '/../SharedComponents/Header.php';
                 <h6>Article title</h6>
                 <p class="article">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, quam!...</p>
             </div>
-            
+
             <hr class="mb-4">
             <h4>Recent Posts</h4>
             <?php foreach ($blogPosts as $post) : ?>
