@@ -11,7 +11,7 @@ require_once __DIR__ . '/../SharedComponents/Header.php';
 ?>
 
 
-<div class="container">
+<div class="container"  style="margin-top: 100px;">
     <h1 class="mb-4 mt-5">Welcome</h1>
     <container class="row">
         <div class="col-8">
