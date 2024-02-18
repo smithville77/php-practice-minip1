@@ -19,6 +19,18 @@ require_once __DIR__ . '/../SharedComponents/Header.php';
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat atque enim consectetur libero earum, cumque odit esse quas praesentium sequi ex rem laboriosam a vero, sapiente repellat? Delectus explicabo officia, accusantium ducimus aspernatur tempora praesentium temporibus, tenetur aut consectetur laborum?</p>
         </div>
         <div class="col-4">
+            <h4>Recent Articles</h4>
+            <hr>
+            <div>
+                <h6>Article title</h6>
+                <p class="article">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, quam!...</p>
+            </div>
+            <div>
+                <h6>Article title</h6>
+                <p class="article">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, quam!...</p>
+            </div>
+            
+            <hr class="mb-4">
             <h4>Recent Posts</h4>
             <?php foreach ($blogPosts as $post) : ?>
                 <div class="border-top border-bottom border-secondary p-2 mb-3">
