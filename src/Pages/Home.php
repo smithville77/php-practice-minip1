@@ -16,7 +16,7 @@ require_once __DIR__ . '/../SharedComponents/Header.php';
     <container class="row">
         <div class="col-8">
             <h2>News</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat atque enim consectetur libero earum, cumque odit esse quas praesentium sequi ex rem laboriosam a vero, sapiente repellat? Delectus explicabo officia, accusantium ducimus aspernatur tempora praesentium temporibus, tenetur aut consectetur laborum?</p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat atque enim consectetur libero earum, cumque odit esse quas praesentium sequi ex reo, sapiente repellat? Delectus explicabo officia, accusantium ducimus aspernatur tempora praesentium temporibus, tenetur aut consectetur laborum?</p>
         </div>
         <div class="col-4">
             <h4>Recent Articles</h4>
