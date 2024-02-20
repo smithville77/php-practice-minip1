@@ -24,8 +24,6 @@
                 <div class="navbar-nav">
                     <a class="nav-link active" aria-current="page" href="/php-practice-minip1/src/Pages/Home.php">Home</a>
                     <a class="nav-link active" aria-current="page" href="/php-practice-minip1/src/Pages/ViewPosts.php">View Posts</a>
-
-
                 </div>
             </div>
         </div>
